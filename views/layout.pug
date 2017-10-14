@@ -1,0 +1,25 @@
+doctype html
+html
+    head
+        title #{title}
+        link(rel="stylesheet" href="/bower/bootstrap/dist/css/bootstrap.min.css")
+    body
+        != messages('alert',locals)
+        if errors
+            each error in errors
+                .alert.alert-danger #{error.msg}
+        if user
+            a.btn.btn-default(href="/user/logout") logout
+        else
+            a.btn.btn-default(href="/user/login") login
+
+        block content
+
+        br
+        hr
+        footer
+            p Copyright &copy; 2017
+
+        script(src="/bower/jquery/dist/jquery.min.js")
+        script(src="/bower/bootstrap/dist/js/bootstrap.min.js")
+        script(src="/bower/vue/dist/vue.min.js")

@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36faaa42-438f-45e7-be69-194da2e712d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/test.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PrettyBlog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/jasonchen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/reactTemplatesPlugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/passport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodbModels/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodbModels/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodbModels/topology.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodbModels/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/article_route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/user_route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/change-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/nuget/bootstrap.less.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/dist/jquery.slim.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/external/sizzle/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/external/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/var/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/DOMEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/nodeName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/ready-no-deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/readyException.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/stripAndCollapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/adjustCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/showHide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/css/var/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/data/var/acceptData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/data/var/dataPriv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/data/var/dataUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/deferred/exceptionHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event/focusin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/event/trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/buildFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/getAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/var/rtagName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/manipulation/wrapMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/traversing/var/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/traversing/var/siblings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/ObjectFunctionString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/documentElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/fnToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/getProto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/rcssNum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/rnothtmlwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.circleci/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.flowconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.github/CODE_OF_CONDUCT.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.github/COMMIT_CONVENTION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.github/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/BACKERS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/big-table/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/big-table/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/big-table/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/ENV.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/lib/memory-stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/lib/monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/dbmon/lib/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/reorder-list/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/ssr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/ssr/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/ssr/renderToStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/ssr/renderToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/svg/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/benchmarks/uptime/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/gen-release-note.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/get-weex-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/git-hooks/commit-msg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/git-hooks/pre-commit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/install-hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/release-weex.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/build/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/commits/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/commits/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/elastic-header/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/elastic-header/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/firebase/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/firebase/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/firebase/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/grid/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/grid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/grid/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/markdown/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/markdown/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/modal/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/modal/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/move-animations/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/select2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/svg/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/svg/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/svg/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/todomvc/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/todomvc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/todomvc/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/tree/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/examples/tree/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/global-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/ssr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/flow/vnode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/client-plugin.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/server-plugin.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/types/plugin.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-server-renderer/types/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-template-compiler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-template-compiler/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-template-compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/vue-template-compiler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-template-compiler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-template-compiler/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-template-compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-template-compiler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-vue-framework/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-vue-framework/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-vue-framework/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/packages/weex-vue-framework/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/codegen/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/codegen/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/create-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/directives/bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/directives/on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/error-detector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/optimizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/parser/entity-decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/parser/filter-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/parser/html-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/parser/text-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/compiler/to-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/components/keep-alive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/global-api/assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/global-api/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/global-api/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/global-api/mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/global-api/use.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/lifecycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/bind-object-listeners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/bind-object-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/check-keycodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/render-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/render-slot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/render-static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/resolve-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render-helpers/resolve-slots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/instance/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/observer/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/observer/dep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/observer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/observer/scheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/observer/watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/lang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/next-tick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/perf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/util/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/create-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/create-element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/create-functional-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/extract-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/get-first-component-child.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/is-async-placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/merge-hook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/normalize-children.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/resolve-async-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/helpers/update-listeners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/modules/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/modules/ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/core/vdom/vnode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/directives/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/directives/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/modules/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/compiler/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/entry-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/entry-runtime-with-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/entry-runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/entry-server-basic-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/entry-server-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/class-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/components/transition-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/directives/show.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/dom-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/node-ops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/runtime/transition-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/directives/show.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/modules/dom-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/server/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/web/util/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/directives/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/modules/append.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/modules/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/compiler/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/entry-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/entry-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/entry-runtime-factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/components/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/components/richtext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/components/transition-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/directives/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/node-ops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/runtime/text-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/platforms/weex/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/bundle-renderer/create-bundle-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/bundle-renderer/create-bundle-runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/bundle-renderer/source-map-support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/create-basic-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/create-renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/optimizing-compiler/codegen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/optimizing-compiler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/optimizing-compiler/modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/optimizing-compiler/optimizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/optimizing-compiler/runtime-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/render-context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/render-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/template-renderer/create-async-file-mapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/template-renderer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/template-renderer/parse-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/template-renderer/template-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/webpack-plugin/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/webpack-plugin/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/webpack-plugin/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/server/write.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/sfc/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/shared/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/src/shared/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/nightwatch.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/async-edge-cases.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/async-edge-cases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/basic-ssr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/basic-ssr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/commits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/todomvc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/e2e/specs/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/classlist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/test-object-option.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/to-equal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/to-have-been-warned.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/trigger-event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/vdom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/helpers/wait-for-update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/async-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/compile-with-webpack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/async-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/async-foo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/nested-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/promise-rejection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/fixtures/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/jasmine.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/ssr-basic-renderer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/ssr-bundle-render.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/ssr-stream.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/ssr-string.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/ssr/ssr-template.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/component/component-async.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/component/component-keep-alive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/component/component-scoped-slot.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/component/component-slot.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/component/component.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/debug.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/bind.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/class.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/cloak.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/for.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/html.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/if.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-checkbox.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-component.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-dynamic.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-file.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-parse.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-radio.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-select.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/model-text.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/on.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/once.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/pre.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/show.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/static-style-parser.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/style.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/directives/text.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/error-handling.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/filter/filter.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/assets.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/compile.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/config.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/extend.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/mixin.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/set-delete.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/global-api/use.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/init.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/methods-data.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/methods-events.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/methods-lifecycle.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/properties.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/instance/render-proxy.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/_scopeId.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/comments.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/components.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/computed.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/data.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/delimiters.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/directives.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/el.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/errorCaptured.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/extends.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/functional.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/inheritAttrs.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/inject.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/lifecycle.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/methods.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/mixins.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/name.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/parent.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/props.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/propsData.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/render.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/renderError.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/template.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/options/watch.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/ref.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/transition/inject-styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/transition/transition-group.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/transition/transition-mode.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/features/transition/transition.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/karma.base.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/karma.cover.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/karma.dev.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/karma.sauce.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/karma.unit.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/compiler/codegen.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/compiler/compiler-options.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/compiler/optimizer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/compiler/parser.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/observer/observer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/observer/scheduler.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/observer/watcher.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/server-compiler/optimizer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/sfc/sfc-parser.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/util/next-tick.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/create-component.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/create-element.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/attrs.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/class.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/dom-props.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/events.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/modules/style.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/patch/children.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/patch/edge-cases.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/patch/element.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/patch/hooks.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/unit/modules/vdom/patch/hydration.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/append.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/class.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/compile.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/props.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/style.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/compiler/v-model.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/helpers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/jasmine.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/attrs.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/class.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/components/richtext.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/events.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/framework.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/node.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/test/weex/runtime/style.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/options.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/plugin.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/augmentation-test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/es-module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/options-test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/plugin-test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/ssr-test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/test/vue-test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/typings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/vnode.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower/vue/types/vue.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/alert.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/article.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layout.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/login.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/register.pug" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PrettyBlog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="user_route.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/user_route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="934">
+              <caret line="72" column="7" lean-forward="false" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article_route.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/article_route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/article.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/register.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>flash</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.pug" />
+        <option value="$PROJECT_DIR$/mongodbModels/test.js" />
+        <option value="$PROJECT_DIR$/mongodbModels/topology.js" />
+        <option value="$PROJECT_DIR$/mongodbModels/line.js" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/alert.pug" />
+        <option value="$PROJECT_DIR$/routes/article.js" />
+        <option value="$PROJECT_DIR$/models/user.js" />
+        <option value="$PROJECT_DIR$/views/register.pug" />
+        <option value="$PROJECT_DIR$/views/login.pug" />
+        <option value="$PROJECT_DIR$/config/database.js" />
+        <option value="$PROJECT_DIR$/config/passport.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
+        <option value="$PROJECT_DIR$/routes/user_route.js" />
+        <option value="$PROJECT_DIR$/views/article.pug" />
+        <option value="$PROJECT_DIR$/routes/article_route.js" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mongodbModels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrettyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="A:/nodejs/NodeJs" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="A:\nodejs\NodeJs" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="A:\nodejs\NodeJs" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="disabled" />
+    <property name="ejs.open.delimiter" value="&lt;%" />
+    <property name="ejs.close.delimiter" value="%&gt;" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\CODE\VueJS\VueProject\PrettyBlog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\CODE\VueJS\VueProject\PrettyBlog\mongodbModels" />
+      <recent name="A:\CODE\VueJS\VueProject\PrettyBlog\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36faaa42-438f-45e7-be69-194da2e712d0" name="Default" comment="" />
+      <created>1507949562770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507949562770</updated>
+      <workItem from="1507949564930" duration="20452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20452000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30307692" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mongodbModels/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/bootstrap/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/bootstrap/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/bootstrap/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/vue/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1051">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/vue/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/vue/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower/vue/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodbModels/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/alert.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodbModels/line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodbModels/topology.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/register.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/passport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/user_route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="72" column="7" lean-forward="false" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/article.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/article_route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
